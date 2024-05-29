@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenapiCompanies", "OpenapiCompanies\OpenapiCompanies.csproj", "{79C9D122-C850-4EC9-9672-95F3C96A8229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompaniesUnitTest", "CompaniesUnitTest\CompaniesUnitTest.csproj", "{645A1B63-40F1-443F-BA78-A593FF3962FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C9D122-C850-4EC9-9672-95F3C96A8229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C9D122-C850-4EC9-9672-95F3C96A8229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C9D122-C850-4EC9-9672-95F3C96A8229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C9D122-C850-4EC9-9672-95F3C96A8229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645A1B63-40F1-443F-BA78-A593FF3962FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645A1B63-40F1-443F-BA78-A593FF3962FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645A1B63-40F1-443F-BA78-A593FF3962FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645A1B63-40F1-443F-BA78-A593FF3962FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4EAAFDD-EEF6-4DA1-88E5-6DA704E0184E}
+	EndGlobalSection
+EndGlobal
